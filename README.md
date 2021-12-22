@@ -1,5 +1,5 @@
 # DOA-Estimation
-In signal processing, direction of arrival denotes the direction from which usually a propagating wave arrives at a point, where usually a set of sensors are located. These set of sensors forms what is called a sensor array. This project aims to estimate DOA of an audio signal.
+In signal processing, direction of arrival denotes the direction from which a propagating wave arrives at a point, where usually a set of sensors are located. These set of sensors forms what is called a sensor array. This project aims to estimate DOA of an audio signal.
 
 [![image.png](https://github.com/SqrtPapere/DOA-Estimation/blob/master/img/1.png)](https://github.com/SqrtPapere/DOA-Estimation/blob/master/img/1.png)
 
